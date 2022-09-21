@@ -1,2 +1,4 @@
 # JS Modules
 /node_modules
+# Parcel cache
+.parcel-cache
