@@ -12,12 +12,11 @@
   "homepage": "https://github.com/Mag1sterY0da/forkify-app",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.7.0",
-    "gh-pages": "^4.0.0",
     "parcel": "^2.7.0"
   },
   "dependencies": {
     "core-js": "^3.25.0",
-    "fractional": "^1.0.0",
+    "fracty": "^1.0.11",
     "regenerator-runtime": "^0.13.9"
   }
 }
