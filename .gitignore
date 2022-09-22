@@ -2,3 +2,7 @@
 /node_modules
 # Parcel cache
 .parcel-cache
+# Dist folder
+dist
+# Prettier settings
+.prettierrc
