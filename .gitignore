@@ -3,6 +3,6 @@
 # Parcel cache
 .parcel-cache
 # Dist folder
-dist
+/dist/
 # Prettier settings
 .prettierrc
